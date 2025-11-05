@@ -1,3 +1,5 @@
+![Sridhar Karri Banner](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:20B2AA&height=180&section=header&text=Sridhar%20Karri%20🚀%20Learning%20Journey&fontSize=32&fontColor=ffffff&animation=fadeIn)
+
 🚀 Sridhar’s Learning Journey
 
 “Building one skill at a time — consistency beats talent.”
